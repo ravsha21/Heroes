@@ -1,4 +1,5 @@
 export interface Hero {
+  /* set datatype */
   id: number;
   name: string;
 }
